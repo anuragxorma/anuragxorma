@@ -11,7 +11,7 @@
 
 ## 🛠 My Skills
 - **Languages & Libraries:** Python, Pandas, Dask, Scikit-Learn, Keras, TensorFlow
-- **Machine Learning Models:** Decision Trees, Gradient Boosting, ANN, RNN, LSTM, and k-Nearest Neighbors
+- **Machine Learning Models:** Decision Trees, ANN, RNN, LSTM
 - **Data Analysis & Management:** Data cleaning, feature engineering, hyperparameter tuning, and model evaluation
 - **Other Tools:** Git, Jupyter Notebooks
 
@@ -24,7 +24,7 @@
 ---
 
 ## 🤝 Let's Connect
-I’m always open to new ideas, collaborations, and connections in the AI and machine learning communities! Feel free to reach out here or connect with me on [LinkedIn](Your LinkedIn URL). Let's explore the possibilities of AI and data science together!
+I’m always open to new ideas, collaborations, and connections in the AI and machine learning communities! Feel free to reach out here or connect with me on [LinkedIn]([https://www.linkedin.com/in/anurag-sharma-307377275/]). Let's explore the possibilities of AI and data science together!
 
 --- 
 
