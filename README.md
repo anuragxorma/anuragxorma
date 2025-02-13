@@ -1,12 +1,12 @@
 # 👋 Hi, I’m Anurag
 
-**Welcome to my GitHub!** Here, I explore, build, and share projects that combine my passions for physics, machine learning, and data science. I’m a master’s student in **Astro and Particle Physics** with a growing focus on **Machine Learning** and **AI**, and I'm actively transitioning into a career as a Machine Learning Engineer. 
+**Welcome to my GitHub!** Here, I explore, build, and share projects that combine my passions for physics, machine learning, and data science. I’m a master’s student in **Astro and Particle Physics** with a growing focus on **Machine Learning** and **AI**, and I'm actively transitioning into a career as a Machine Learning Engineer or a Data Scientist. 
 
 ---
 
 ## 🌌 About Me
 
-- 🔭 Currently working on my thesis, **"BiPo Event Classification in OSIRIS using Machine Learning,"** where I’m developing multiple models to classify experimental events, achieving accuracies around 80%—significantly higher than the traditional 60% baseline.
+- 🔭 Currently working on my thesis, **"BiPo Event Classification in OSIRIS using Machine Learning,"** where I’m developing multiple models to classify experimental events, achieving accuracies around 88%—significantly higher than the traditional 60% baseline.
 - 🌱 I’m improving my knowledge daily, taking specialized courses on **Supervised and Unsupervised Learning** and experimenting with various ML techniques.
 
 ## 🛠 My Skills
@@ -19,7 +19,7 @@
 
 ## 🎯 Goals
 - **Short Term:** Gain industry experience through part-time or working student roles in AI/ML to complement my studies.
-- **Long Term:** Transition fully into a Machine Learning Engineer role, where I can combine my technical skills with my interest in data-driven problem-solving.
+- **Long Term:** Transition fully into a Machine Learning Engineer or a Data Scientist role, where I can combine my technical skills with my interest in data-driven problem-solving.
 
 ---
 
