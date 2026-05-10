@@ -60,7 +60,7 @@ Matplotlib, Seaborn, ROOT
 
 ## Connect
 
-- LinkedIn: [Anurag Sharma]([https://www.linkedin.com/in/anurag-sharma-307377275/])
+- LinkedIn:https://www.linkedin.com/in/anurag-sharma-307377275/
 
 
 ```
