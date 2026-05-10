@@ -1,38 +1,66 @@
-# Hi, I’m Anurag
 
-**Welcome to my GitHub!** Here, I explore, build, and share projects that combine my passions for physics, machine learning, and data science. I’m a master’s student in **Astro and Particle Physics** with a growing focus on **Machine Learning** and **AI**, and I'm actively transitioning into a career as a Machine Learning Engineer or a Data Scientist. 
+# Hi, I'm Anurag
 
----
+I work at the intersection of data science, scientific computing, and Formal Concept Analysis.
 
-## About Me
+My background is in Astro and Particle Physics, where I worked with machine learning for particle detector analysis and large-scale scientific data. I currently spend most of my time building tools and systems around Formal Concept Analysis, lattice-based methods, and data exploration.
 
-- Currently working on my thesis, **"BiPo Event Classification in OSIRIS using Machine Learning,"** where I’m developing multiple models to classify experimental events, achieving accuracies around 85%—significantly higher than the traditional 60% baseline.
-- I’m improving my knowledge daily, taking specialized courses on **Supervised and Unsupervised Learning** and experimenting with various ML techniques.
-
-## My Skills
-
-- **Languages & Libraries:** Python, C++, SQL, Pandas, NumPy, Dask, Scikit-Learn, Keras, TensorFlow, PyTorch, Seaborn, Matplotlib, Optuna, Root, RootSorter  
-- **Machine Learning Models:** Decision Trees, Random Forest, ANN, SimpleRNN, LSTM, BiLSTM, Attention Mechanisms  
-- **Data Analysis & Management:** Data cleaning, time-series preprocessing, feature engineering, hyperparameter tuning, model evaluation, scaling workflows with Dask  
-- **Simulation & Robotics:** PyBullet, ROS2, MoveIt, trajectory planning and execution in simulated environments  
-- **Tools & Platforms:** Git, Docker, Jupyter Notebooks, LaTeX  
-- **Soft Skills:** Problem-solving, clear communication, structured thinking, rapid learning, remote collaboration
+I am interested in machine learning, data science, scientific software development, and interpretable systems.
 
 ---
 
-## Goals
-Transition fully into a Machine Learning Engineer or a Data Scientist role, where I can combine my technical skills with my interest in data-driven problem-solving.
+## Featured Projects
+
+### ConceptFlow
+A Python library for Formal Concept Analysis focused on conceptual scaling, lattice construction, and interactive visualization.
+
+Topics:
+- Formal Concept Analysis (FCA)
+- Concept lattices
+- Conceptual scaling
+- Interactive graph visualization
 
 ---
 
-## Let's Connect
-I’m always open to new ideas, collaborations, and connections in the AI and machine learning communities! Feel free to reach out here or connect with me on [LinkedIn]([https://www.linkedin.com/in/anurag-sharma-307377275/]). Let's explore the possibilities of AI and data science together!
+### BiPo Event Classification in OSIRIS using Machine Learning
+Master’s thesis project focused on classifying particle detector events using machine learning models including neural networks, recurrent architectures, and tree-based methods.
 
---- 
+Topics:
+- Machine learning for physics
+- Scientific data analysis
+- Time-series/event classification
+- Deep learning
+- Statistical evaluation
 
-> **"Science and innovation are collaborative journeys. Excited to be part of that journey with you!"**
+---
 
-<!---
-anuragxorma/anuragxorma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Technologies
+
+**Languages & Tools**  
+Python, SQL, C++, Git, Docker, Linux, Jupyter, LaTeX
+
+**Data Science & Machine Learning**  
+Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Dask, Optuna
+
+**Scientific Computing & Visualization**  
+Matplotlib, Seaborn, ROOT
+
+---
+
+## Interests
+
+- Formal Concept Analysis
+- Machine Learning
+- Scientific Computing
+- Data Engineering
+- Interpretable Systems
+- Physics
+
+---
+
+## Connect
+
+- LinkedIn: [Anurag Sharma]([https://www.linkedin.com/in/anurag-sharma-307377275/])
+
+
+```
